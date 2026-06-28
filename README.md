@@ -2,6 +2,12 @@
 
 Greenden is a responsive multi-page website built using **HTML**, **Tailwind CSS**, and **CSS**. The project showcases a clean, modern, and user-friendly interface for a plant-themed website while demonstrating responsive web design principles and utility-first styling with Tailwind CSS.
 
+## 🔗 Live Demo
+
+**GitHub Pages:**
+https://kabilanmadurai.github.io/Greenden-Clone/
+
+
 ## 🚀 Features
 
 * Responsive navigation bar
@@ -56,10 +62,6 @@ This project helped me:
 
 Home Page | Products Page | Contact Page
 
-## 🔗 Live Demo
-
-**GitHub Pages:**
-https://your-username.github.io/Greenden/
 
 ## 👨‍💻 Author
 
